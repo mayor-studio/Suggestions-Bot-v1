@@ -50,7 +50,12 @@ options: [{name : "user",description: "..",type: 6, required:true}]
              Routes.applicationCommands(client.user.id),
              { body: commands },
             );
-            console.log(client.user.tag + " Online");
+            console.log("========================================");
+            console.log("✅ Bot is now online!");
+            console.log(`🤖 Logged in as: ${client.user.tag}`);
+            console.log("📅 Copyright © MAYOR STUDIO 2024 - 2025");
+            console.log("🔗 Join our community: discord.gg/mayor");
+            console.log("========================================");
             } catch (error) {
         console.error(error);
         }
