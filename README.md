@@ -1,28 +1,52 @@
 # MAYOR - Suggestions Bot 2025
 
-[![Discord Server](https://img.shields.io/discord/1324396250912784416?label=Join%20Community&logo=discord&style=flat-square)](https://discord.gg/mayor)
-[![GitHub](https://img.shields.io/github/license/your-username/mayor-bot?style=flat-square)](https://github.com/your-username/mayor-bot/blob/main/LICENSE)
+[![Discord Server](https://img.shields.io/discord/1324396250912784416?label=Join%20Discord&logo=discord&style=flat-square)](https://discord.gg/mayor)
 
-The most customizable unencrypted suggestions bot for Discord.  
-Effortlessly manage suggestions with simple token setup and blacklist controls.  
-Follow the video tutorial to configure version 20 correctly.
-
----
-
-## 🚀 Key Features
-
-| Feature | Description |
-|--------|-------------|
-| **Open Source** | Fully unencrypted code for complete customization |
-| **Blacklist System** | Block unwanted users from submitting suggestions |
-| **Quick Setup** | Just add bot token & blacklist ID in config |
-| **v20 Ready** | Optimized for latest Discord API version |
-| **Lightweight** | Minimal resource usage for stable performance |
+The best new, unencrypted suggestions bot.  
+Just add your bot token and blacklist ID for management.  
+Set it to v20 as shown in the video.  
 
 ---
 
-## 🛠️ Setup Instructions
+## Features
 
-1. **Clone Repository**  
-   ```bash
-   git clone https://github.com/your-username/mayor-bot.git
+- **Unencrypted Code**: Fully open for customization.  
+- **Blacklist Management**: Easily block users from making suggestions.  
+- **Simple Setup**: Just configure the bot token and blacklist ID.  
+- **Version 20 Ready**: Follow the video tutorial for setup.  
+
+---
+
+## Setup Instructions
+
+1. Clone the repository to your local machine.  
+2. Open the project folder.  
+3. Add your bot token and blacklist ID in the configuration file.  
+4. Run the bot using your preferred method (e.g., `node`, `pm2`).  
+5. Ensure the bot is set to version 20 as shown in the video.  
+
+---
+
+## Usage
+
+- **Making Suggestions**: Users can submit suggestions directly to the bot.  
+- **Blacklist Management**: Admins can block users from submitting suggestions.  
+
+---
+
+## Video Demonstration
+
+For a detailed setup guide, watch the video:  
+[![YouTube Video](https://img.youtube.com/vi/ig_Wz-1E-E0/0.jpg)](https://youtu.be/ig_Wz-1E-E0?si=fl6vGiLppHlN6xQX)
+
+---
+
+## Join the Community
+
+[![Discord Server](https://img.shields.io/discord/1324396250912784416?label=Join%20Discord&logo=discord&style=flat-square)](https://discord.gg/mayor)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
